@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-07-16T10:26:26.686200400Z</date>
+  <millis>1721125586686</millis>
+  <nanos>200400</nanos>
+  <sequence>15</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>SEVERE</level>
+  <class>com.ans.cda.main.MyLauncher</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>severe message</message>
+</record>
+<record>
+  <date>2024-07-16T10:26:26.698218700Z</date>
+  <millis>1721125586698</millis>
+  <nanos>218700</nanos>
+  <sequence>16</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>com.ans.cda.main.MyLauncher</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>warning message</message>
+</record>
+<record>
+  <date>2024-07-16T10:26:26.699744900Z</date>
+  <millis>1721125586699</millis>
+  <nanos>744900</nanos>
+  <sequence>17</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>com.ans.cda.main.MyLauncher</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>info message</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-07-16T10:28:02.407722900Z</date>
+  <millis>1721125682407</millis>
+  <nanos>722900</nanos>
+  <sequence>17</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>SEVERE</level>
+  <class>com.ans.cda.main.MyLauncher</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>severe message</message>
+</record>
+<record>
+  <date>2024-07-16T10:28:02.413834400Z</date>
+  <millis>1721125682413</millis>
+  <nanos>834400</nanos>
+  <sequence>18</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>com.ans.cda.main.MyLauncher</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>warning message</message>
+</record>
+<record>
+  <date>2024-07-16T10:28:02.414879800Z</date>
+  <millis>1721125682414</millis>
+  <nanos>879800</nanos>
+  <sequence>19</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>com.ans.cda.main.MyLauncher</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>info message</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-07-16T10:28:52.567176500Z</date>
+  <millis>1721125732567</millis>
+  <nanos>176500</nanos>
+  <sequence>15</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>SEVERE</level>
+  <class>com.ans.cda.main.MyLauncher</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>severe message</message>
+</record>
+<record>
+  <date>2024-07-16T10:29:25.716795500Z</date>
+  <millis>1721125765716</millis>
+  <nanos>795500</nanos>
+  <sequence>16</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>com.ans.cda.main.MyLauncher</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>warning message</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-07-16T10:35:14.579715800Z</date>
+  <millis>1721126114579</millis>
+  <nanos>715800</nanos>
+  <sequence>17</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>SEVERE</level>
+  <class>com.ans.cda.main.MyLauncher</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>severe message</message>
+</record>
+<record>
+  <date>2024-07-16T10:35:14.587712500Z</date>
+  <millis>1721126114587</millis>
+  <nanos>712500</nanos>
+  <sequence>18</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>com.ans.cda.main.MyLauncher</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>warning message</message>
+</record>
+<record>
+  <date>2024-07-16T10:35:14.587712500Z</date>
+  <millis>1721126114587</millis>
+  <nanos>712500</nanos>
+  <sequence>19</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>com.ans.cda.main.MyLauncher</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>info message</message>
+</record>
+</log>
